@@ -1,0 +1,390 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi\\WeatherApi.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Helper\\WeatherApi.Helpers.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Helper\\WeatherApi.Helpers.csproj",
+        "projectName": "WeatherApi.Helpers",
+        "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Helper\\WeatherApi.Helpers.csproj",
+        "packagesPath": "C:\\Users\\mehmetnadir.karatay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Helper\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehmetnadir.karatay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\SourceCodes\\EReport-PreProd\\NugetSource\\Telerik": {},
+          "C:\\SourceCodes\\EReport-Prod\\NugetSource\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Infrastructure\\WeatherApi.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Infrastructure\\WeatherApi.Infrastructure.csproj",
+        "projectName": "WeatherApi.Infrastructure",
+        "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Infrastructure\\WeatherApi.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\mehmetnadir.karatay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehmetnadir.karatay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\SourceCodes\\EReport-PreProd\\NugetSource\\Telerik": {},
+          "C:\\SourceCodes\\EReport-Prod\\NugetSource\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[10.1.1, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Integrations\\WeatherApi.Integrations.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Integrations\\WeatherApi.Integrations.csproj",
+        "projectName": "WeatherApi.Integrations",
+        "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Integrations\\WeatherApi.Integrations.csproj",
+        "packagesPath": "C:\\Users\\mehmetnadir.karatay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Integrations\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehmetnadir.karatay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\SourceCodes\\EReport-PreProd\\NugetSource\\Telerik": {},
+          "C:\\SourceCodes\\EReport-Prod\\NugetSource\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Helper\\WeatherApi.Helpers.csproj": {
+                "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Helper\\WeatherApi.Helpers.csproj"
+              },
+              "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Infrastructure\\WeatherApi.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Infrastructure\\WeatherApi.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.Extensions.Http": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Logic\\WeatherApi.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Logic\\WeatherApi.Logic.csproj",
+        "projectName": "WeatherApi.Logic",
+        "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Logic\\WeatherApi.Logic.csproj",
+        "packagesPath": "C:\\Users\\mehmetnadir.karatay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehmetnadir.karatay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\SourceCodes\\EReport-PreProd\\NugetSource\\Telerik": {},
+          "C:\\SourceCodes\\EReport-Prod\\NugetSource\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Infrastructure\\WeatherApi.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Infrastructure\\WeatherApi.Infrastructure.csproj"
+              },
+              "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Integrations\\WeatherApi.Integrations.csproj": {
+                "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Integrations\\WeatherApi.Integrations.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi\\WeatherApi.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi\\WeatherApi.csproj",
+        "projectName": "WeatherApi",
+        "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi\\WeatherApi.csproj",
+        "packagesPath": "C:\\Users\\mehmetnadir.karatay\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mehmetnadir.karatay\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\SourceCodes\\EReport-PreProd\\NugetSource\\Telerik": {},
+          "C:\\SourceCodes\\EReport-Prod\\NugetSource\\Telerik": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {
+              "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Integrations\\WeatherApi.Integrations.csproj": {
+                "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Integrations\\WeatherApi.Integrations.csproj"
+              },
+              "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Logic\\WeatherApi.Logic.csproj": {
+                "projectPath": "C:\\Users\\mehmetnadir.karatay\\source\\repos\\WeatherApi\\WeatherApi.Logic\\WeatherApi.Logic.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.NewtonsoftJson": {
+              "target": "Package",
+              "version": "[3.1.12, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[5.0.3, )"
+            },
+            "Microsoft.Extensions.Caching.StackExchangeRedis": {
+              "target": "Package",
+              "version": "[5.0.1, )"
+            },
+            "Serilog.AspNetCore": {
+              "target": "Package",
+              "version": "[3.4.0, )"
+            },
+            "Serilog.Enrichers.Environment": {
+              "target": "Package",
+              "version": "[2.1.3, )"
+            },
+            "Serilog.Enrichers.Process": {
+              "target": "Package",
+              "version": "[2.0.1, )"
+            },
+            "Serilog.Enrichers.Thread": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Settings.Configuration": {
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "Serilog.Sinks.MSSqlServer": {
+              "target": "Package",
+              "version": "[5.6.0, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

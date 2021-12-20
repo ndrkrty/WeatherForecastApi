@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WeatherApi.Helpers/1.0.0": {
+        "runtime": {
+          "WeatherApi.Helpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WeatherApi.Helpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

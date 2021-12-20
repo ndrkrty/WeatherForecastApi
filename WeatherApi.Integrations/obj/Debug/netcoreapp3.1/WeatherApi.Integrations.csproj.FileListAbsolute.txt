@@ -1,0 +1,14 @@
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\bin\Debug\netcoreapp3.1\WeatherApi.Integrations.deps.json
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\bin\Debug\netcoreapp3.1\WeatherApi.Integrations.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\bin\Debug\netcoreapp3.1\WeatherApi.Integrations.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\bin\Debug\netcoreapp3.1\WeatherApi.Helpers.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\bin\Debug\netcoreapp3.1\WeatherApi.Infrastructure.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\bin\Debug\netcoreapp3.1\WeatherApi.Helpers.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\bin\Debug\netcoreapp3.1\WeatherApi.Infrastructure.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\obj\Debug\netcoreapp3.1\WeatherApi.Integrations.csprojAssemblyReference.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\obj\Debug\netcoreapp3.1\WeatherApi.Integrations.AssemblyInfoInputs.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\obj\Debug\netcoreapp3.1\WeatherApi.Integrations.AssemblyInfo.cs
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\obj\Debug\netcoreapp3.1\WeatherApi.Integrations.csproj.CoreCompileInputs.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\obj\Debug\netcoreapp3.1\WeatherApi.Integrations.csproj.CopyComplete
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\obj\Debug\netcoreapp3.1\WeatherApi.Integrations.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Integrations\obj\Debug\netcoreapp3.1\WeatherApi.Integrations.pdb

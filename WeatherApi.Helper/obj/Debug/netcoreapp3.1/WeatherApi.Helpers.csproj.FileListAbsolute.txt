@@ -1,0 +1,9 @@
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\bin\Debug\netcoreapp3.1\WeatherApi.Helpers.deps.json
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\bin\Debug\netcoreapp3.1\WeatherApi.Helpers.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\bin\Debug\netcoreapp3.1\WeatherApi.Helpers.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\obj\Debug\netcoreapp3.1\WeatherApi.Helpers.csprojAssemblyReference.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\obj\Debug\netcoreapp3.1\WeatherApi.Helpers.AssemblyInfoInputs.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\obj\Debug\netcoreapp3.1\WeatherApi.Helpers.AssemblyInfo.cs
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\obj\Debug\netcoreapp3.1\WeatherApi.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\obj\Debug\netcoreapp3.1\WeatherApi.Helpers.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Helper\obj\Debug\netcoreapp3.1\WeatherApi.Helpers.pdb

@@ -1,0 +1,16 @@
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Logic.deps.json
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Logic.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Logic.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\obj\Debug\netcoreapp3.1\WeatherApi.Logic.csprojAssemblyReference.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\obj\Debug\netcoreapp3.1\WeatherApi.Logic.AssemblyInfoInputs.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\obj\Debug\netcoreapp3.1\WeatherApi.Logic.AssemblyInfo.cs
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\obj\Debug\netcoreapp3.1\WeatherApi.Logic.csproj.CoreCompileInputs.cache
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\obj\Debug\netcoreapp3.1\WeatherApi.Logic.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\obj\Debug\netcoreapp3.1\WeatherApi.Logic.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Helpers.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Infrastructure.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Integrations.dll
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Infrastructure.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Integrations.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\bin\Debug\netcoreapp3.1\WeatherApi.Helpers.pdb
+C:\Users\mehmetnadir.karatay\source\repos\WeatherApi\WeatherApi.Logic\obj\Debug\netcoreapp3.1\WeatherApi.Logic.csproj.CopyComplete
